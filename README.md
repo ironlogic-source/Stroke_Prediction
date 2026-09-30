@@ -1,7 +1,7 @@
 # 🧠 Stroke Prediction using Machine Learning
 
 Predicting the likelihood of a patient having a stroke from demographic and health features
-(age, gender, hypertension, heart disease, glucose, BMI, smoking status, ...).
+(age, Gender, hypertension, heart disease, glucose, BMI, smoking status, ...).
 
 > Stroke is the second leading cause of death worldwide (WHO, ~11% of deaths). Early identification of
 > high-risk individuals allows preventive care.
