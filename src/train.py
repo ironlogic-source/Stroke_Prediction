@@ -1,5 +1,3 @@
-"""Stroke prediction: EDA -> preprocessing -> model comparison -> evaluation."""
-
 from pathlib import Path
 import warnings
 
